@@ -1037,17 +1037,6 @@
         "pk": 95,
         "model": "demo.CountryPopulation",
         "fields": {
-            "name": "Zimbabwe",
-            "population": 14439018,
-            "continent": "AF",
-            "latitude": -18.4554963,
-            "longitude": 29.7468414
-        }
-    },
-    {
-        "pk": 96,
-        "model": "demo.CountryPopulation",
-        "fields": {
             "name": "Heard and McDonald Islands",
             "population": 0,
             "continent": "AN",
@@ -1056,7 +1045,7 @@
         }
     },
     {
-        "pk": 97,
+        "pk": 96,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Honduras",
@@ -1067,7 +1056,7 @@
         }
     },
     {
-        "pk": 98,
+        "pk": 97,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Croatia",
@@ -1078,7 +1067,7 @@
         }
     },
     {
-        "pk": 99,
+        "pk": 98,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Haiti",
@@ -1089,7 +1078,7 @@
         }
     },
     {
-        "pk": 100,
+        "pk": 99,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Hungary",
@@ -1100,7 +1089,7 @@
         }
     },
     {
-        "pk": 101,
+        "pk": 100,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Indonesia",
@@ -1111,7 +1100,7 @@
         }
     },
     {
-        "pk": 102,
+        "pk": 101,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Ireland",
@@ -1122,7 +1111,7 @@
         }
     },
     {
-        "pk": 103,
+        "pk": 102,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Israel",
@@ -1133,7 +1122,7 @@
         }
     },
     {
-        "pk": 104,
+        "pk": 103,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Isle of Man",
@@ -1144,7 +1133,7 @@
         }
     },
     {
-        "pk": 105,
+        "pk": 104,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "India",
@@ -1155,7 +1144,7 @@
         }
     },
     {
-        "pk": 106,
+        "pk": 105,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "British Indian Ocean Territory",
@@ -1166,7 +1155,7 @@
         }
     },
     {
-        "pk": 107,
+        "pk": 106,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Iraq",
@@ -1177,7 +1166,7 @@
         }
     },
     {
-        "pk": 108,
+        "pk": 107,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Iran",
@@ -1188,7 +1177,7 @@
         }
     },
     {
-        "pk": 109,
+        "pk": 108,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Iceland",
@@ -1199,7 +1188,7 @@
         }
     },
     {
-        "pk": 110,
+        "pk": 109,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Italy",
@@ -1210,7 +1199,7 @@
         }
     },
     {
-        "pk": 111,
+        "pk": 110,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Jersey",
@@ -1221,7 +1210,7 @@
         }
     },
     {
-        "pk": 112,
+        "pk": 111,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Jamaica",
@@ -1232,7 +1221,7 @@
         }
     },
     {
-        "pk": 113,
+        "pk": 112,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Jordan",
@@ -1243,7 +1232,7 @@
         }
     },
     {
-        "pk": 114,
+        "pk": 113,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Japan",
@@ -1254,7 +1243,7 @@
         }
     },
     {
-        "pk": 115,
+        "pk": 114,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Kenya",
@@ -1265,7 +1254,7 @@
         }
     },
     {
-        "pk": 116,
+        "pk": 115,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Kyrgyzstan",
@@ -1276,7 +1265,7 @@
         }
     },
     {
-        "pk": 117,
+        "pk": 116,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Cambodia",
@@ -1287,7 +1276,7 @@
         }
     },
     {
-        "pk": 118,
+        "pk": 117,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Kiribati",
@@ -1298,7 +1287,7 @@
         }
     },
     {
-        "pk": 119,
+        "pk": 118,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Comoros",
@@ -1309,7 +1298,7 @@
         }
     },
     {
-        "pk": 120,
+        "pk": 119,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "St Kitts and Nevis",
@@ -1320,7 +1309,7 @@
         }
     },
     {
-        "pk": 121,
+        "pk": 120,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "North Korea",
@@ -1331,7 +1320,7 @@
         }
     },
     {
-        "pk": 122,
+        "pk": 121,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "South Korea",
@@ -1342,7 +1331,7 @@
         }
     },
     {
-        "pk": 123,
+        "pk": 122,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Kuwait",
@@ -1353,7 +1342,7 @@
         }
     },
     {
-        "pk": 124,
+        "pk": 123,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Cayman Islands",
@@ -1364,7 +1353,7 @@
         }
     },
     {
-        "pk": 125,
+        "pk": 124,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Kazakhstan",
@@ -1375,7 +1364,7 @@
         }
     },
     {
-        "pk": 126,
+        "pk": 125,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Laos",
@@ -1386,7 +1375,7 @@
         }
     },
     {
-        "pk": 127,
+        "pk": 126,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Lebanon",
@@ -1397,7 +1386,7 @@
         }
     },
     {
-        "pk": 128,
+        "pk": 127,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Saint Lucia",
@@ -1408,7 +1397,7 @@
         }
     },
     {
-        "pk": 129,
+        "pk": 128,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Liechtenstein",
@@ -1419,7 +1408,7 @@
         }
     },
     {
-        "pk": 130,
+        "pk": 129,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Sri Lanka",
@@ -1430,7 +1419,7 @@
         }
     },
     {
-        "pk": 131,
+        "pk": 130,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Liberia",
@@ -1441,7 +1430,7 @@
         }
     },
     {
-        "pk": 132,
+        "pk": 131,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Lesotho",
@@ -1452,7 +1441,7 @@
         }
     },
     {
-        "pk": 133,
+        "pk": 132,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Lithuania",
@@ -1463,7 +1452,7 @@
         }
     },
     {
-        "pk": 134,
+        "pk": 133,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Luxembourg",
@@ -1474,7 +1463,7 @@
         }
     },
     {
-        "pk": 135,
+        "pk": 134,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Latvia",
@@ -1485,7 +1474,7 @@
         }
     },
     {
-        "pk": 136,
+        "pk": 135,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Libya",
@@ -1496,7 +1485,7 @@
         }
     },
     {
-        "pk": 137,
+        "pk": 136,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Morocco",
@@ -1507,7 +1496,7 @@
         }
     },
     {
-        "pk": 138,
+        "pk": 137,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Monaco",
@@ -1518,7 +1507,7 @@
         }
     },
     {
-        "pk": 139,
+        "pk": 138,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Moldova",
@@ -1529,7 +1518,7 @@
         }
     },
     {
-        "pk": 140,
+        "pk": 139,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Montenegro",
@@ -1540,7 +1529,7 @@
         }
     },
     {
-        "pk": 141,
+        "pk": 140,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Saint Martin",
@@ -1551,7 +1540,7 @@
         }
     },
     {
-        "pk": 142,
+        "pk": 141,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Madagascar",
@@ -1562,7 +1551,7 @@
         }
     },
     {
-        "pk": 143,
+        "pk": 142,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Marshall Islands",
@@ -1573,7 +1562,7 @@
         }
     },
     {
-        "pk": 144,
+        "pk": 143,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "North Macedonia",
@@ -1584,7 +1573,7 @@
         }
     },
     {
-        "pk": 145,
+        "pk": 144,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Mali",
@@ -1595,7 +1584,7 @@
         }
     },
     {
-        "pk": 146,
+        "pk": 145,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Myanmar",
@@ -1606,7 +1595,7 @@
         }
     },
     {
-        "pk": 147,
+        "pk": 146,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Mongolia",
@@ -1617,18 +1606,7 @@
         }
     },
     {
-        "pk": 148,
-        "model": "demo.CountryPopulation",
-        "fields": {
-            "name": "South Africa",
-            "population": 57779622,
-            "continent": "AF",
-            "latitude": -28.8166236,
-            "longitude": 24.991639
-        }
-    },
-    {
-        "pk": 149,
+        "pk": 147,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Northern Mariana Islands",
@@ -1639,7 +1617,7 @@
         }
     },
     {
-        "pk": 150,
+        "pk": 148,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Martinique",
@@ -1650,7 +1628,7 @@
         }
     },
     {
-        "pk": 151,
+        "pk": 149,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Mauritania",
@@ -1661,7 +1639,7 @@
         }
     },
     {
-        "pk": 152,
+        "pk": 150,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Montserrat",
@@ -1672,7 +1650,7 @@
         }
     },
     {
-        "pk": 153,
+        "pk": 151,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Malta",
@@ -1683,7 +1661,7 @@
         }
     },
     {
-        "pk": 154,
+        "pk": 152,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Mauritius",
@@ -1694,7 +1672,7 @@
         }
     },
     {
-        "pk": 155,
+        "pk": 153,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Maldives",
@@ -1705,7 +1683,7 @@
         }
     },
     {
-        "pk": 156,
+        "pk": 154,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Malawi",
@@ -1716,7 +1694,7 @@
         }
     },
     {
-        "pk": 157,
+        "pk": 155,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Mexico",
@@ -1727,7 +1705,7 @@
         }
     },
     {
-        "pk": 158,
+        "pk": 156,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Malaysia",
@@ -1738,7 +1716,7 @@
         }
     },
     {
-        "pk": 159,
+        "pk": 157,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Mozambique",
@@ -1749,7 +1727,7 @@
         }
     },
     {
-        "pk": 160,
+        "pk": 158,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Namibia",
@@ -1760,7 +1738,7 @@
         }
     },
     {
-        "pk": 161,
+        "pk": 159,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "New Caledonia",
@@ -1771,7 +1749,7 @@
         }
     },
     {
-        "pk": 162,
+        "pk": 160,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Niger",
@@ -1782,7 +1760,7 @@
         }
     },
     {
-        "pk": 163,
+        "pk": 161,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Norfolk Island",
@@ -1793,7 +1771,7 @@
         }
     },
     {
-        "pk": 164,
+        "pk": 162,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Nigeria",
@@ -1804,7 +1782,7 @@
         }
     },
     {
-        "pk": 165,
+        "pk": 163,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Nicaragua",
@@ -1815,7 +1793,7 @@
         }
     },
     {
-        "pk": 166,
+        "pk": 164,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Netherlands",
@@ -1826,7 +1804,7 @@
         }
     },
     {
-        "pk": 167,
+        "pk": 165,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Norway",
@@ -1837,7 +1815,7 @@
         }
     },
     {
-        "pk": 168,
+        "pk": 166,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Nepal",
@@ -1848,7 +1826,7 @@
         }
     },
     {
-        "pk": 169,
+        "pk": 167,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Nauru",
@@ -1859,7 +1837,7 @@
         }
     },
     {
-        "pk": 170,
+        "pk": 168,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Niue",
@@ -1870,7 +1848,7 @@
         }
     },
     {
-        "pk": 171,
+        "pk": 169,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "New Zealand",
@@ -1881,7 +1859,7 @@
         }
     },
     {
-        "pk": 172,
+        "pk": 170,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Oman",
@@ -1892,7 +1870,7 @@
         }
     },
     {
-        "pk": 173,
+        "pk": 171,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Panama",
@@ -1903,7 +1881,7 @@
         }
     },
     {
-        "pk": 174,
+        "pk": 172,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Peru",
@@ -1914,7 +1892,7 @@
         }
     },
     {
-        "pk": 175,
+        "pk": 173,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "French Polynesia",
@@ -1925,7 +1903,7 @@
         }
     },
     {
-        "pk": 176,
+        "pk": 174,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Papua New Guinea",
@@ -1936,7 +1914,7 @@
         }
     },
     {
-        "pk": 177,
+        "pk": 175,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Philippines",
@@ -1947,7 +1925,7 @@
         }
     },
     {
-        "pk": 178,
+        "pk": 176,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Pakistan",
@@ -1958,7 +1936,7 @@
         }
     },
     {
-        "pk": 179,
+        "pk": 177,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Poland",
@@ -1969,7 +1947,7 @@
         }
     },
     {
-        "pk": 180,
+        "pk": 178,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Saint Pierre and Miquelon",
@@ -1980,7 +1958,7 @@
         }
     },
     {
-        "pk": 181,
+        "pk": 179,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Pitcairn Islands",
@@ -1991,7 +1969,7 @@
         }
     },
     {
-        "pk": 182,
+        "pk": 180,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Puerto Rico",
@@ -2002,7 +1980,7 @@
         }
     },
     {
-        "pk": 183,
+        "pk": 181,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Palestine",
@@ -2013,7 +1991,7 @@
         }
     },
     {
-        "pk": 184,
+        "pk": 182,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Portugal",
@@ -2024,7 +2002,7 @@
         }
     },
     {
-        "pk": 185,
+        "pk": 183,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Palau",
@@ -2035,7 +2013,7 @@
         }
     },
     {
-        "pk": 186,
+        "pk": 184,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Paraguay",
@@ -2046,7 +2024,7 @@
         }
     },
     {
-        "pk": 187,
+        "pk": 185,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Qatar",
@@ -2057,7 +2035,7 @@
         }
     },
     {
-        "pk": 188,
+        "pk": 186,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "R\u00e9union",
@@ -2068,7 +2046,7 @@
         }
     },
     {
-        "pk": 189,
+        "pk": 187,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Romania",
@@ -2079,7 +2057,7 @@
         }
     },
     {
-        "pk": 190,
+        "pk": 188,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Serbia",
@@ -2090,7 +2068,7 @@
         }
     },
     {
-        "pk": 191,
+        "pk": 189,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Russia",
@@ -2101,7 +2079,7 @@
         }
     },
     {
-        "pk": 192,
+        "pk": 190,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Rwanda",
@@ -2112,7 +2090,7 @@
         }
     },
     {
-        "pk": 193,
+        "pk": 191,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Saudi Arabia",
@@ -2123,7 +2101,7 @@
         }
     },
     {
-        "pk": 194,
+        "pk": 192,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Solomon Islands",
@@ -2134,7 +2112,7 @@
         }
     },
     {
-        "pk": 195,
+        "pk": 193,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Seychelles",
@@ -2145,7 +2123,7 @@
         }
     },
     {
-        "pk": 196,
+        "pk": 194,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Sudan",
@@ -2156,7 +2134,7 @@
         }
     },
     {
-        "pk": 197,
+        "pk": 195,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Sweden",
@@ -2167,7 +2145,7 @@
         }
     },
     {
-        "pk": 198,
+        "pk": 196,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Singapore",
@@ -2178,7 +2156,7 @@
         }
     },
     {
-        "pk": 199,
+        "pk": 197,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Saint Helena",
@@ -2189,7 +2167,7 @@
         }
     },
     {
-        "pk": 200,
+        "pk": 198,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Slovenia",
@@ -2200,7 +2178,7 @@
         }
     },
     {
-        "pk": 201,
+        "pk": 199,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Svalbard and Jan Mayen",
@@ -2211,7 +2189,7 @@
         }
     },
     {
-        "pk": 202,
+        "pk": 200,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Slovakia",
@@ -2222,7 +2200,7 @@
         }
     },
     {
-        "pk": 203,
+        "pk": 201,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Sierra Leone",
@@ -2233,7 +2211,7 @@
         }
     },
     {
-        "pk": 204,
+        "pk": 202,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "San Marino",
@@ -2244,7 +2222,7 @@
         }
     },
     {
-        "pk": 205,
+        "pk": 203,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Senegal",
@@ -2255,7 +2233,7 @@
         }
     },
     {
-        "pk": 206,
+        "pk": 204,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Somalia",
@@ -2266,7 +2244,7 @@
         }
     },
     {
-        "pk": 207,
+        "pk": 205,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Suriname",
@@ -2277,7 +2255,7 @@
         }
     },
     {
-        "pk": 208,
+        "pk": 206,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "South Sudan",
@@ -2288,7 +2266,7 @@
         }
     },
     {
-        "pk": 209,
+        "pk": 207,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
@@ -2299,7 +2277,7 @@
         }
     },
     {
-        "pk": 210,
+        "pk": 208,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "El Salvador",
@@ -2310,7 +2288,7 @@
         }
     },
     {
-        "pk": 211,
+        "pk": 209,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Sint Maarten",
@@ -2321,7 +2299,7 @@
         }
     },
     {
-        "pk": 212,
+        "pk": 210,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Syria",
@@ -2332,7 +2310,7 @@
         }
     },
     {
-        "pk": 213,
+        "pk": 211,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Eswatini",
@@ -2343,7 +2321,7 @@
         }
     },
     {
-        "pk": 214,
+        "pk": 212,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Turks and Caicos Islands",
@@ -2354,7 +2332,7 @@
         }
     },
     {
-        "pk": 215,
+        "pk": 213,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Chad",
@@ -2365,7 +2343,7 @@
         }
     },
     {
-        "pk": 216,
+        "pk": 214,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "French Southern Territories",
@@ -2376,7 +2354,7 @@
         }
     },
     {
-        "pk": 217,
+        "pk": 215,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Togo",
@@ -2387,7 +2365,7 @@
         }
     },
     {
-        "pk": 218,
+        "pk": 216,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Thailand",
@@ -2398,7 +2376,7 @@
         }
     },
     {
-        "pk": 219,
+        "pk": 217,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Tajikistan",
@@ -2409,7 +2387,7 @@
         }
     },
     {
-        "pk": 220,
+        "pk": 218,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Tokelau",
@@ -2420,7 +2398,7 @@
         }
     },
     {
-        "pk": 221,
+        "pk": 219,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Timor-Leste",
@@ -2431,7 +2409,7 @@
         }
     },
     {
-        "pk": 222,
+        "pk": 220,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Turkmenistan",
@@ -2442,7 +2420,7 @@
         }
     },
     {
-        "pk": 223,
+        "pk": 221,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Tunisia",
@@ -2453,7 +2431,7 @@
         }
     },
     {
-        "pk": 224,
+        "pk": 222,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Tonga",
@@ -2464,7 +2442,7 @@
         }
     },
     {
-        "pk": 225,
+        "pk": 223,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Turkey",
@@ -2475,7 +2453,7 @@
         }
     },
     {
-        "pk": 226,
+        "pk": 224,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Trinidad and Tobago",
@@ -2486,7 +2464,7 @@
         }
     },
     {
-        "pk": 227,
+        "pk": 225,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Tuvalu",
@@ -2497,18 +2475,7 @@
         }
     },
     {
-        "pk": 228,
-        "model": "demo.CountryPopulation",
-        "fields": {
-            "name": "Zambia",
-            "population": 17351822,
-            "continent": "AF",
-            "latitude": -14.5189121,
-            "longitude": 27.5589884
-        }
-    },
-    {
-        "pk": 229,
+        "pk": 226,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Tanzania",
@@ -2519,7 +2486,7 @@
         }
     },
     {
-        "pk": 230,
+        "pk": 227,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Ukraine",
@@ -2530,7 +2497,7 @@
         }
     },
     {
-        "pk": 231,
+        "pk": 228,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Uganda",
@@ -2541,7 +2508,7 @@
         }
     },
     {
-        "pk": 233,
+        "pk": 229,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "United States",
@@ -2552,7 +2519,7 @@
         }
     },
     {
-        "pk": 234,
+        "pk": 230,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Uruguay",
@@ -2563,7 +2530,7 @@
         }
     },
     {
-        "pk": 235,
+        "pk": 231,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Uzbekistan",
@@ -2574,7 +2541,7 @@
         }
     },
     {
-        "pk": 236,
+        "pk": 232,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Vatican City",
@@ -2585,7 +2552,7 @@
         }
     },
     {
-        "pk": 237,
+        "pk": 233,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "St Vincent and Grenadines",
@@ -2596,7 +2563,7 @@
         }
     },
     {
-        "pk": 238,
+        "pk": 234,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Venezuela",
@@ -2607,7 +2574,7 @@
         }
     },
     {
-        "pk": 239,
+        "pk": 235,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "British Virgin Islands",
@@ -2618,7 +2585,7 @@
         }
     },
     {
-        "pk": 240,
+        "pk": 236,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "U.S. Virgin Islands",
@@ -2629,7 +2596,7 @@
         }
     },
     {
-        "pk": 241,
+        "pk": 237,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Vietnam",
@@ -2640,7 +2607,7 @@
         }
     },
     {
-        "pk": 242,
+        "pk": 238,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Vanuatu",
@@ -2651,7 +2618,7 @@
         }
     },
     {
-        "pk": 243,
+        "pk": 239,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Wallis and Futuna",
@@ -2662,7 +2629,7 @@
         }
     },
     {
-        "pk": 244,
+        "pk": 240,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Samoa",
@@ -2673,7 +2640,7 @@
         }
     },
     {
-        "pk": 245,
+        "pk": 241,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Kosovo",
@@ -2684,7 +2651,7 @@
         }
     },
     {
-        "pk": 246,
+        "pk": 242,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Yemen",
@@ -2695,7 +2662,7 @@
         }
     },
     {
-        "pk": 247,
+        "pk": 243,
         "model": "demo.CountryPopulation",
         "fields": {
             "name": "Mayotte",
@@ -2703,6 +2670,39 @@
             "continent": "AF",
             "latitude": -12.825543,
             "longitude": 45.148490830203045
+        }
+    },
+    {
+        "pk": 244,
+        "model": "demo.CountryPopulation",
+        "fields": {
+            "name": "South Africa",
+            "population": 57779622,
+            "continent": "AF",
+            "latitude": -28.8166236,
+            "longitude": 24.991639
+        }
+    },
+    {
+        "pk": 245,
+        "model": "demo.CountryPopulation",
+        "fields": {
+            "name": "Zambia",
+            "population": 17351822,
+            "continent": "AF",
+            "latitude": -14.5189121,
+            "longitude": 27.5589884
+        }
+    },
+    {
+        "pk": 246,
+        "model": "demo.CountryPopulation",
+        "fields": {
+            "name": "Zimbabwe",
+            "population": 14439018,
+            "continent": "AF",
+            "latitude": -18.4554963,
+            "longitude": 29.7468414
         }
     }
 ]

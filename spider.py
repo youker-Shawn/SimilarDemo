@@ -29,6 +29,8 @@ def extract(html_text: str) -> List[dict]:
         country_continent = country.xpath('td[last()]//text()')[0]
         country_population = country.xpath('td[last()-1]//text()')[0]
         # print(country_name, country_population, country_continent)
+        if country_name in ("Taiwan", "Hong Kong", "Macao"):
+            continue
 
         country_population = int(''.join(country_population.split(',')))
         # key name is the same as CountryPopulation model's field
@@ -53,7 +55,8 @@ def main():
     # print(extract_result)
 
     source_data = []
-    for idx, country in enumerate(extract_result, start=1):
+    idx = 1
+    for country in extract_result:
         try:
             location = geolocator.geocode(country["name"])
             country["latitude"] = location.latitude
@@ -70,6 +73,7 @@ def main():
                 "fields": country,
             }
         )
+        idx += 1
 
     with open('demo/fixtures/population.json', 'w') as f:
         json.dump(source_data, f, indent=4)
