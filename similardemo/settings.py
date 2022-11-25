@@ -139,3 +139,5 @@ LOGGING = {
         'level': 'INFO',  # Default: WARNING
     },
 }
+
+APIDOC_ROOT = BASE_DIR / 'docs/apidocs/'
